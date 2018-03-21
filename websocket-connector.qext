@@ -1,0 +1,6 @@
+{
+  "type": "mashup",
+  "name": "Websocket Connector",
+  "description": "Testing pure websocket connection",
+  "author": "John Bellizzi"
+}
